@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playbook Interativo PGM-SP: Direito Constitucional</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header com Logo e Navegação -->
+    <header class="header">
+        <div class="header-container">
+            <div class="logo-section">
+                <h1>⚖️ Playbook PGM-SP</h1>
+                <p class="subtitle">Lei Seca Esquematizada - Residência Jurídica</p>
+            </div>
+            <nav class="main-nav">
+                <button class="nav-btn active" data-view="dashboard">Dashboard</button>
+                <button class="nav-btn" data-view="missions">Missões</button>
+                <button class="nav-btn" data-view="study">Estude</button>
+                <button class="nav-btn" data-view="progress">Progresso</button>
+                <button class="nav-btn" data-view="settings">⚙️ Configurações</button>
+            </nav>
+            <div class="theme-toggle">
+                <button id="themeBtn" class="theme-btn">🌙 Modo Noturno</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Container Principal -->
+    <main class="main-container">
+        
+        <!-- DASHBOARD VIEW -->
+        <section id="dashboard-view" class="view active">
+            <div class="dashboard-grid">
+                <!-- Card de Boas-vindas -->
+                <div class="welcome-card">
+                    <h2>Bem-vindo ao Playbook PGM-SP! 🎮</h2>
+                    <p>Prepare-se para a Residência Jurídica com a Lei Seca Esquematizada de forma dinâmica e gamificada.</p>
+                    <div class="user-stats">
+                        <div class="stat">
+                            <span class="stat-value" id="totalPoints">0</span>
+                            <span class="stat-label">Pontos</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-value" id="missionsCompleted">0</span>
+                            <span class="stat-label">Missões</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-value" id="articlesStudied">0</span>
+                            <span class="stat-label">Artigos</span>
+                        </div>
+                        <div class="stat">
+                            <span class="stat-value" id="streakDays">0</span>
+                            <span class="stat-label">Dias Seguidos</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card de Próximas Missões -->
+                <div class="next-missions-card">
+                    <h3>Próximas Missões 🎯</h3>
+                    <div class="missions-list">
+                        <div class="mission-item">
+                            <span class="mission-icon">🏛️</span>
+                            <span>Fundamentos da República (Art. 1º-4º)</span>
+                            <span class="progress-bar"><span class="progress-fill" style="width: 0%"></span></span>
+                        </div>
+                        <div class="mission-item">
+                            <span class="mission-icon">📜</span>
+                            <span>Direitos e Garantias (Art. 5º-17)</span>
+                            <span class="progress-bar"><span class="progress-fill" style="width: 0%"></span></span>
+                        </div>
+                        <div class="mission-item">
+                            <span class="mission-icon">🏢</span>
+                            <span>Organização do Estado (Art. 18-43)</span>
+                            <span class="progress-bar"><span class="progress-fill" style="width: 0%"></span></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Card de Dica do Dia -->
+                <div class="tip-card">
+                    <h3>💡 Dica do Dia</h3>
+                    <p id="dailyTip">Use a técnica de Feynman: explique o artigo em voz alta como se estivesse ensinando alguém. Isso consolida o aprendizado!</p>
+                    <button class="btn-secondary">Próxima Dica</button>
+                </div>
+
+                <!-- Card de Caderno de Erros -->
+                <div class="errors-card">
+                    <h3>📔 Caderno de Erros</h3>
+                    <p id="errorCount">Você tem 0 erros registrados</p>
+                    <button class="btn-primary" onclick="goToView('study')">Revisar Erros</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- MISSIONS VIEW -->
+        <section id="missions-view" class="view">
+            <div class="missions-container">
+                <h2>Escolha sua Missão 🎯</h2>
+                <div class="missions-grid">
+                    <!-- Missão 1 -->
+                    <div class="mission-card" onclick="selectMission(1)">
+                        <div class="mission-header">
+                            <span class="mission-number">Missão 1</span>
+                            <span class="difficulty">⭐⭐</span>
+                        </div>
+                        <h3>🏛️ Fundamentos da República</h3>
+                        <p>Art. 1º a 4º - Princípios Fundamentais</p>
+                        <div class="mission-stats">
+                            <span>4 Artigos</span>
+                            <span>12 Questões AOCP</span>
+                        </div>
+                        <div class="progress-bar-full">
+                            <span class="progress-fill" style="width: 0%"></span>
+                        </div>
+                        <button class="btn-primary">Começar</button>
+                    </div>
+
+                    <!-- Missão 2 -->
+                    <div class="mission-card" onclick="selectMission(2)">
+                        <div class="mission-header">
+                            <span class="mission-number">Missão 2</span>
+                            <span class="difficulty">⭐⭐⭐</span>
+                        </div>
+                        <h3>📜 Direitos e Garantias</h3>
+                        <p>Art. 5º a 17 - Direitos Fundamentais</p>
+                        <div class="mission-stats">
+                            <span>13 Artigos</span>
+                            <span>35 Questões AOCP</span>
+                        </div>
+                        <div class="progress-bar-full">
+                            <span class="progress-fill" style="width: 0%"></span>
+                        </div>
+                        <button class="btn-primary">Começar</button>
+                    </div>
+
+                    <!-- Missão 3 -->
+                    <div class="mission-card" onclick="selectMission(3)">
+                        <div class="mission-header">
+                            <span class="mission-number">Missão 3</span>
+                            <span class="difficulty">⭐⭐⭐⭐</span>
+                        </div>
+                        <h3>🏢 Organização do Estado</h3>
+                        <p>Art. 18 a 43 - Estrutura Estatal</p>
+                        <div class="mission-stats">
+                            <span>26 Artigos</span>
+                            <span>42 Questões AOCP</span>
+                        </div>
+                        <div class="progress-bar-full">
+                            <span class="progress-fill" style="width: 0%"></span>
+                        </div>
+                        <button class="btn-primary">Começar</button>
+                    </div>
+
+                    <!-- Missão 4 -->
+                    <div class="mission-card" onclick="selectMission(4)">
+                        <div class="mission-header">
+                            <span class="mission-number">Missão 4</span>
+                            <span class="difficulty">⭐⭐⭐⭐</span>
+                        </div>
+                        <h3>👔 Administração Pública</h3>
+                        <p>Art. 37 e Correlatos - Servidores Públicos</p>
+                        <div class="mission-stats">
+                            <span>8 Artigos</span>
+                            <span>28 Questões AOCP</span>
+                        </div>
+                        <div class="progress-bar-full">
+                            <span class="progress-fill" style="width: 0%"></span>
+                        </div>
+                        <button class="btn-primary">Começar</button>
+                    </div>
+
+                    <!-- Missão 5 -->
+                    <div class="mission-card" onclick="selectMission(5)">
+                        <div class="mission-header">
+                            <span class="mission-number">Missão 5</span>
+                            <span class="difficulty">⭐⭐⭐⭐⭐</span>
+                        </div>
+                        <h3>⚖️ Controle de Constitucionalidade</h3>
+                        <p>Art. 97, 102 e Correlatos - STF</p>
+                        <div class="mission-stats">
+                            <span>6 Artigos</span>
+                            <span>31 Questões AOCP</span>
+                        </div>
+                        <div class="progress-bar-full">
+                            <span class="progress-fill" style="width: 0%"></span>
+                        </div>
+                        <button class="btn-primary">Começar</button>
+                    </div>
+
+                    <!-- Missão 6 -->
+                    <div class="mission-card" onclick="selectMission(6)">
+                        <div class="mission-header">
+                            <span class="mission-number">Missão 6</span>
+                            <span class="difficulty">⭐⭐⭐</span>
+                        </div>
+                        <h3>🏛️ Advocacia Pública</h3>
+                        <p>Art. 132 - Procuradoria Geral do Município</p>
+                        <div class="mission-stats">
+                            <span>1 Artigo</span>
+                            <span>15 Questões AOCP</span>
+                        </div>
+                        <div class="progress-bar-full">
+                            <span class="progress-fill" style="width: 0%"></span>
+                        </div>
+                        <button class="btn-primary">Começar</button>
+                    </div>
+
+                    <!-- Missão 7 - Revisão -->
+                    <div class="mission-card" onclick="selectMission(7)">
+                        <div class="mission-header">
+                            <span class="mission-number">Missão 7</span>
+                            <span class="difficulty">⭐⭐⭐⭐⭐</span>
+                        </div>
+                        <h3>🎓 Revisão Final</h3>
+                        <p>Súmulas, Leis e Simulado Relâmpago</p>
+                        <div class="mission-stats">
+                            <span>Artigos Principais</span>
+                            <span>50 Questões AOCP</span>
+                        </div>
+                        <div class="progress-bar-full">
+                            <span class="progress-fill" style="width: 0%"></span>
+                        </div>
+                        <button class="btn-primary">Começar</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- STUDY VIEW -->
+        <section id="study-view" class="view">
+            <div class="study-container">
+                <div class="study-layout">
+                    <!-- Painel Principal de Conteúdo -->
+                    <div class="study-content">
+                        <div class="article-header">
+                            <h2 id="articleTitle">Selecione uma Missão</h2>
+                            <div class="article-meta">
+                                <span id="articleNumber">-</span>
+                                <span id="difficulty">-</span>
+                            </div>
+                        </div>
+
+                        <!-- Abas de Conteúdo -->
+                        <div class="content-tabs">
+                            <button class="tab-btn active" data-tab="law-text">📜 Lei Seca</button>
+                            <button class="tab-btn" data-tab="raio-x">🔍 Raio-X</button>
+                            <button class="tab-btn" data-tab="tips">💡 Dicas AOCP</button>
+                            <button class="tab-btn" data-tab="practice">🏛️ Prática PGM-SP</button>
+                            <button class="tab-btn" data-tab="questions">❓ Questões</button>
+                        </div>
+
+                        <!-- Conteúdo das Abas -->
+                        <div class="tab-content">
+                            <!-- Lei Seca -->
+                            <div class="tab-pane active" id="law-text-pane">
+                                <div class="law-text-container">
+                                    <div class="law-text" id="lawText">
+                                        <p>Selecione um artigo para visualizar o texto completo da Constituição Federal.</p>
+                                    </div>
+                                    <div class="highlight-tools">
+                                        <button class="btn-secondary" id="highlightBtn">✏️ Modo Marca-texto</button>
+                                        <button class="btn-secondary" id="clearHighlightsBtn">🗑️ Limpar Destaques</button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Raio-X Esquematizado -->
+                            <div class="tab-pane" id="raio-x-pane">
+                                <div class="raio-x-container" id="raioX">
+                                    <p>Raio-X esquematizado será exibido aqui.</p>
+                                </div>
+                            </div>
+
+                            <!-- Dicas AOCP -->
+                            <div class="tab-pane" id="tips-pane">
+                                <div class="tips-container" id="tipsContainer">
+                                    <p>Dicas e mnemônicos serão exibidos aqui.</p>
+                                </div>
+                            </div>
+
+                            <!-- Prática PGM-SP -->
+                            <div class="tab-pane" id="practice-pane">
+                                <div class="practice-container" id="practiceContainer">
+                                    <p>Exemplos de aplicabilidade prática na PGM-SP serão exibidos aqui.</p>
+                                </div>
+                            </div>
+
+                            <!-- Questões -->
+                            <div class="tab-pane" id="questions-pane">
+                                <div class="questions-container" id="questionsContainer">
+                                    <p>Questões AOCP serão exibidas aqui.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Painel Lateral -->
+                    <aside class="study-sidebar">
+                        <!-- Checklist de Revisão -->
+                        <div class="sidebar-card">
+                            <h3>✅ Checklist</h3>
+                            <div class="checklist">
+                                <label class="checkbox-item">
+                                    <input type="checkbox" class="checklist-item">
+                                    <span>Li o texto</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" class="checklist-item">
+                                    <span>Revisei o Raio-X</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" class="checklist-item">
+                                    <span>Aprendi os mnemônicos</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" class="checklist-item">
+                                    <span>Resolvi as questões</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" class="checklist-item">
+                                    <span>Domino o tema</span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- Anotações -->
+                        <div class="sidebar-card">
+                            <h3>📝 Anotações</h3>
+                            <textarea id="notesArea" placeholder="Escreva suas anotações aqui..." class="notes-textarea"></textarea>
+                            <button class="btn-secondary" onclick="saveNotes()">💾 Salvar</button>
+                        </div>
+
+                        <!-- Flashcards -->
+                        <div class="sidebar-card">
+                            <h3>🎴 Flashcard</h3>
+                            <div class="flashcard-container">
+                                <div class="flashcard" id="flashcard">
+                                    <div class="flashcard-front">
+                                        <p id="flashcardQuestion">Clique para ver a pergunta</p>
+                                    </div>
+                                </div>
+                                <div class="flashcard-controls">
+                                    <button class="btn-secondary" onclick="flipFlashcard()">🔄 Virar</button>
+                                    <button class="btn-secondary" onclick="nextFlashcard()">→ Próximo</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Caderno de Erros -->
+                        <div class="sidebar-card">
+                            <h3>📔 Caderno de Erros</h3>
+                            <textarea id="errorNotes" placeholder="Registre seus erros aqui..." class="notes-textarea"></textarea>
+                            <button class="btn-secondary" onclick="saveError()">💾 Registrar Erro</button>
+                        </div>
+                    </aside>
+                </div>
+
+                <!-- Controles de Navegação -->
+                <div class="study-controls">
+                    <button class="btn-secondary" onclick="previousArticle()">← Anterior</button>
+                    <button class="btn-primary" onclick="completeArticle()">✅ Marcar como Completo</button>
+                    <button class="btn-secondary" onclick="nextArticle()">Próximo →</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- PROGRESS VIEW -->
+        <section id="progress-view" class="view">
+            <div class="progress-container">
+                <h2>📊 Seu Progresso</h2>
+                
+                <div class="progress-grid">
+                    <!-- Gráfico de Progresso Geral -->
+                    <div class="progress-card">
+                        <h3>Progresso Geral</h3>
+                        <div class="progress-circle">
+                            <svg viewBox="0 0 100 100">
+                                <circle cx="50" cy="50" r="45" class="progress-bg"></circle>
+                                <circle cx="50" cy="50" r="45" class="progress-fill" style="stroke-dashoffset: 282.7"></circle>
+                            </svg>
+                            <div class="progress-text">
+                                <span class="progress-percent" id="progressPercent">0%</span>
+                                <span class="progress-label">Completo</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Progresso por Missão -->
+                    <div class="progress-card">
+                        <h3>Progresso por Missão</h3>
+                        <div class="mission-progress-list">
+                            <div class="mission-progress-item">
+                                <span>Fundamentos</span>
+                                <div class="progress-bar-thin">
+                                    <span class="progress-fill" style="width: 0%"></span>
+                                </div>
+                                <span class="progress-text-small">0/4</span>
+                            </div>
+                            <div class="mission-progress-item">
+                                <span>Direitos e Garantias</span>
+                                <div class="progress-bar-thin">
+                                    <span class="progress-fill" style="width: 0%"></span>
+                                </div>
+                                <span class="progress-text-small">0/13</span>
+                            </div>
+                            <div class="mission-progress-item">
+                                <span>Organização do Estado</span>
+                                <div class="progress-bar-thin">
+                                    <span class="progress-fill" style="width: 0%"></span>
+                                </div>
+                                <span class="progress-text-small">0/26</span>
+                            </div>
+                            <div class="mission-progress-item">
+                                <span>Administração Pública</span>
+                                <div class="progress-bar-thin">
+                                    <span class="progress-fill" style="width: 0%"></span>
+                                </div>
+                                <span class="progress-text-small">0/8</span>
+                            </div>
+                            <div class="mission-progress-item">
+                                <span>Controle de Constitucionalidade</span>
+                                <div class="progress-bar-thin">
+                                    <span class="progress-fill" style="width: 0%"></span>
+                                </div>
+                                <span class="progress-text-small">0/6</span>
+                            </div>
+                            <div class="mission-progress-item">
+                                <span>Advocacia Pública</span>
+                                <div class="progress-bar-thin">
+                                    <span class="progress-fill" style="width: 0%"></span>
+                                </div>
+                                <span class="progress-text-small">0/1</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Estatísticas -->
+                    <div class="progress-card">
+                        <h3>📈 Estatísticas</h3>
+                        <div class="stats-list">
+                            <div class="stat-item">
+                                <span class="stat-icon">📚</span>
+                                <div>
+                                    <span class="stat-title">Artigos Estudados</span>
+                                    <span class="stat-value" id="statsArticles">0</span>
+                                </div>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-icon">❓</span>
+                                <div>
+                                    <span class="stat-title">Questões Resolvidas</span>
+                                    <span class="stat-value" id="statsQuestions">0</span>
+                                </div>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-icon">⏱️</span>
+                                <div>
+                                    <span class="stat-title">Tempo de Estudo</span>
+                                    <span class="stat-value" id="statsTime">0h</span>
+                                </div>
+                            </div>
+                            <div class="stat-item">
+                                <span class="stat-icon">🎯</span>
+                                <div>
+                                    <span class="stat-title">Taxa de Acerto</span>
+                                    <span class="stat-value" id="statsAccuracy">0%</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Conquistas -->
+                    <div class="progress-card">
+                        <h3>🏆 Conquistas Desbloqueadas</h3>
+                        <div class="achievements-grid">
+                            <div class="achievement locked">
+                                <span class="achievement-icon">🌟</span>
+                                <span class="achievement-name">Primeiro Passo</span>
+                            </div>
+                            <div class="achievement locked">
+                                <span class="achievement-icon">🔥</span>
+                                <span class="achievement-name">Semana de Fogo</span>
+                            </div>
+                            <div class="achievement locked">
+                                <span class="achievement-icon">🎓</span>
+                                <span class="achievement-name">Especialista</span>
+                            </div>
+                            <div class="achievement locked">
+                                <span class="achievement-icon">👑</span>
+                                <span class="achievement-name">Mestre da CF</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- SETTINGS VIEW -->
+        <section id="settings-view" class="view">
+            <div class="settings-container">
+                <h2>⚙️ Configurações</h2>
+                
+                <div class="settings-grid">
+                    <!-- Preferências de Estudo -->
+                    <div class="settings-card">
+                        <h3>📚 Preferências de Estudo</h3>
+                        <div class="setting-item">
+                            <label>Modo de Leitura</label>
+                            <select id="readingMode">
+                                <option value="normal">Normal</option>
+                                <option value="dyslexia">Amigável para Dislexia</option>
+                                <option value="high-contrast">Alto Contraste</option>
+                            </select>
+                        </div>
+                        <div class="setting-item">
+                            <label>Tamanho da Fonte</label>
+                            <select id="fontSize">
+                                <option value="small">Pequeno</option>
+                                <option value="normal" selected>Normal</option>
+                                <option value="large">Grande</option>
+                                <option value="extra-large">Muito Grande</option>
+                            </select>
+                        </div>
+                        <div class="setting-item">
+                            <label>
+                                <input type="checkbox" id="autoSave" checked>
+                                Salvar automaticamente
+                            </label>
+                        </div>
+                    </div>
+
+                    <!-- Notificações -->
+                    <div class="settings-card">
+                        <h3>🔔 Notificações</h3>
+                        <div class="setting-item">
+                            <label>
+                                <input type="checkbox" id="notifyReminder" checked>
+                                Lembrete de Estudo
+                            </label>
+                        </div>
+                        <div class="setting-item">
+                            <label>
+                                <input type="checkbox" id="notifyAchievement" checked>
+                                Notificar Conquistas
+                            </label>
+                        </div>
+                        <div class="setting-item">
+                            <label>Hora do Lembrete</label>
+                            <input type="time" id="reminderTime" value="09:00">
+                        </div>
+                    </div>
+
+                    <!-- Dados -->
+                    <div class="settings-card">
+                        <h3>💾 Dados</h3>
+                        <button class="btn-secondary" onclick="exportData()">📥 Exportar Dados</button>
+                        <button class="btn-secondary" onclick="importData()">📤 Importar Dados</button>
+                        <button class="btn-danger" onclick="resetData()">🗑️ Resetar Tudo</button>
+                    </div>
+
+                    <!-- Sobre -->
+                    <div class="settings-card">
+                        <h3>ℹ️ Sobre</h3>
+                        <p><strong>Versão:</strong> 1.0.0</p>
+                        <p><strong>Desenvolvido para:</strong> Preparação Residência Jurídica PGM-SP</p>
+                        <p><strong>Banca:</strong> AOCP</p>
+                        <p><strong>Foco:</strong> Lei Seca Esquematizada (CF/88)</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Modal para Seleção de Artigos -->
+    <div id="articleModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2>Selecione um Artigo</h2>
+            <div id="articleList" class="article-list">
+                <!-- Artigos serão carregados aqui -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notifications -->
+    <div id="toast" class="toast"></div>
+
+    <script src="content-mission1.js"></script>
+    <script src="content-mission2.js"></script>
+    <script src="advanced-features.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
