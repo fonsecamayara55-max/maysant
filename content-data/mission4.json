@@ -1,0 +1,1707 @@
+{
+  "title": "👔 Administração Pública",
+  "difficulty": "⭐⭐⭐⭐",
+  "articles": [
+    {
+      "number": "Art. 37º",
+      "title": "Princípios LIMPE",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre LIMPE",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        }
+      ]
+    },
+    {
+      "number": "Art. 39º",
+      "title": "Servidores Públicos",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Servidores",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 39"
+        }
+      ]
+    },
+    {
+      "number": "Art. 41º",
+      "title": "Estabilidade",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Estabilidade",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 41"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1413 @@
+{
+  "title": "🎯 Revisão Final",
+  "difficulty": "⭐⭐⭐⭐⭐",
+  "articles": [
+    {
+      "number": "Simulado",
+      "title": "Simulado Completo",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 21,
+          "texto": "Questão 21 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 22,
+          "texto": "Questão 22 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 23,
+          "texto": "Questão 23 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 24,
+          "texto": "Questão 24 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 25,
+          "texto": "Questão 25 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 26,
+          "texto": "Questão 26 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 27,
+          "texto": "Questão 27 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 28,
+          "texto": "Questão 28 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 29,
+          "texto": "Questão 29 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 30,
+          "texto": "Questão 30 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 31,
+          "texto": "Questão 31 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 32,
+          "texto": "Questão 32 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 33,
+          "texto": "Questão 33 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 34,
+          "texto": "Questão 34 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 35,
+          "texto": "Questão 35 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 36,
+          "texto": "Questão 36 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 37,
+          "texto": "Questão 37 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 38,
+          "texto": "Questão 38 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 39,
+          "texto": "Questão 39 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 40,
+          "texto": "Questão 40 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 41,
+          "texto": "Questão 41 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 42,
+          "texto": "Questão 42 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 43,
+          "texto": "Questão 43 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 44,
+          "texto": "Questão 44 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 45,
+          "texto": "Questão 45 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 46,
+          "texto": "Questão 46 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 47,
+          "texto": "Questão 47 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 48,
+          "texto": "Questão 48 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 49,
+          "texto": "Questão 49 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        },
+        {
+          "id": 50,
+          "texto": "Questão 50 sobre Simulado",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 0"
+        }
+      ]
+    }
+  ]
+}

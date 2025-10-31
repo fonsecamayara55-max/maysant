@@ -1,0 +1,2841 @@
+{
+  "title": "🏢 Organização do Estado",
+  "difficulty": "⭐⭐⭐⭐",
+  "articles": [
+    {
+      "number": "Art. 18º",
+      "title": "Entes da Federação",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Entes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 18"
+        }
+      ]
+    },
+    {
+      "number": "Art. 25º",
+      "title": "Estados-Membros",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Estados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 25"
+        }
+      ]
+    },
+    {
+      "number": "Art. 29º",
+      "title": "Municípios",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Municípios",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 29"
+        }
+      ]
+    },
+    {
+      "number": "Art. 30º",
+      "title": "Competências Municipais",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Competências",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 30"
+        }
+      ]
+    },
+    {
+      "number": "Art. 37º",
+      "title": "Administração Pública",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Administração",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 37"
+        }
+      ]
+    }
+  ]
+}

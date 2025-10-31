@@ -1,0 +1,1707 @@
+{
+  "title": "⚖️ Controle de Constitucionalidade",
+  "difficulty": "⭐⭐⭐⭐⭐",
+  "articles": [
+    {
+      "number": "Art. 97º",
+      "title": "Reserva de Plenário",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Reserva",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 97"
+        }
+      ]
+    },
+    {
+      "number": "Art. 102º",
+      "title": "Competência STF",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre STF",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 102"
+        }
+      ]
+    },
+    {
+      "number": "Art. 103º",
+      "title": "Legitimados ADI",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Legitimados",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 103"
+        }
+      ]
+    }
+  ]
+}

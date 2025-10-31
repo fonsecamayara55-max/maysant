@@ -1,0 +1,2274 @@
+{
+  "title": "🏛️ Fundamentos da República",
+  "difficulty": "⭐⭐",
+  "articles": [
+    {
+      "number": "Art. 1º",
+      "title": "Fundamentos",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Fundamentos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 1"
+        }
+      ]
+    },
+    {
+      "number": "Art. 2º",
+      "title": "Divisão de Poderes",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Divisão de Poderes",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 2"
+        }
+      ]
+    },
+    {
+      "number": "Art. 3º",
+      "title": "Objetivos",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Objetivos",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 3"
+        }
+      ]
+    },
+    {
+      "number": "Art. 4º",
+      "title": "Relações Internacionais",
+      "lawText": "...",
+      "questoes": [
+        {
+          "id": 1,
+          "texto": "Questão 1 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 2,
+          "texto": "Questão 2 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 3,
+          "texto": "Questão 3 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 4,
+          "texto": "Questão 4 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 5,
+          "texto": "Questão 5 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 6,
+          "texto": "Questão 6 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 7,
+          "texto": "Questão 7 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 8,
+          "texto": "Questão 8 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 9,
+          "texto": "Questão 9 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 10,
+          "texto": "Questão 10 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 11,
+          "texto": "Questão 11 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 12,
+          "texto": "Questão 12 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 13,
+          "texto": "Questão 13 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 14,
+          "texto": "Questão 14 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 15,
+          "texto": "Questão 15 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 16,
+          "texto": "Questão 16 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 17,
+          "texto": "Questão 17 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 18,
+          "texto": "Questão 18 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 19,
+          "texto": "Questão 19 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        },
+        {
+          "id": 20,
+          "texto": "Questão 20 sobre Relações Internacionais",
+          "opcoes": [
+            {
+              "letra": "A",
+              "texto": "Alternativa A"
+            },
+            {
+              "letra": "B",
+              "texto": "Alternativa B"
+            },
+            {
+              "letra": "C",
+              "texto": "Alternativa C"
+            },
+            {
+              "letra": "D",
+              "texto": "Alternativa D"
+            },
+            {
+              "letra": "E",
+              "texto": "Alternativa E"
+            }
+          ],
+          "gabarito": "B",
+          "explicacao": "Explicação para a questão sobre Art. 4"
+        }
+      ]
+    }
+  ]
+}
