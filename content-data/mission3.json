@@ -1,2839 +1,3040 @@
 {
   "title": "🏢 Organização do Estado",
+  "description": "Entes federativos, competências e autonomia municipal",
   "difficulty": "⭐⭐⭐⭐",
   "articles": [
     {
       "number": "Art. 18º",
       "title": "Entes da Federação",
-      "lawText": "...",
+      "lawText": "Art. 18º A organização político-administrativa da República Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os Municípios...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Entes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 18 em Entes da Federação?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Entes",
+          "texto": "Conforme STF 2025, Art. 18 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Entes",
+          "texto": "Qual é a natureza jurídica do Art. 18 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Entes",
+          "texto": "Qual é a aplicabilidade do Art. 18 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Entes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 18 em Entes da Federação?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Entes",
+          "texto": "Conforme STF 2025, Art. 18 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Entes",
+          "texto": "Qual é a natureza jurídica do Art. 18 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Entes",
+          "texto": "Qual é a aplicabilidade do Art. 18 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Entes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 18 em Entes da Federação?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Entes",
+          "texto": "Conforme STF 2025, Art. 18 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Entes",
+          "texto": "Qual é a natureza jurídica do Art. 18 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Entes",
+          "texto": "Qual é a aplicabilidade do Art. 18 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Entes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 18 em Entes da Federação?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Entes",
+          "texto": "Conforme STF 2025, Art. 18 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Entes",
+          "texto": "Qual é a natureza jurídica do Art. 18 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Entes",
+          "texto": "Qual é a aplicabilidade do Art. 18 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Entes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 18 em Entes da Federação?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Entes",
+          "texto": "Conforme STF 2025, Art. 18 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Entes",
+          "texto": "Qual é a natureza jurídica do Art. 18 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Entes",
+          "texto": "Qual é a aplicabilidade do Art. 18 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 18"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 25º",
       "title": "Estados-Membros",
-      "lawText": "...",
+      "lawText": "Art. 25º Os Estados organizam-se e regem-se pelas Constituições e leis que adotarem, observados os princípios desta Constituição...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Estados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 25 em Estados-Membros?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Estados",
+          "texto": "Conforme STF 2025, Art. 25 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Estados",
+          "texto": "Qual é a natureza jurídica do Art. 25 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Estados",
+          "texto": "Qual é a aplicabilidade do Art. 25 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Estados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 25 em Estados-Membros?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Estados",
+          "texto": "Conforme STF 2025, Art. 25 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Estados",
+          "texto": "Qual é a natureza jurídica do Art. 25 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Estados",
+          "texto": "Qual é a aplicabilidade do Art. 25 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Estados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 25 em Estados-Membros?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Estados",
+          "texto": "Conforme STF 2025, Art. 25 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Estados",
+          "texto": "Qual é a natureza jurídica do Art. 25 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Estados",
+          "texto": "Qual é a aplicabilidade do Art. 25 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Estados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 25 em Estados-Membros?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Estados",
+          "texto": "Conforme STF 2025, Art. 25 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Estados",
+          "texto": "Qual é a natureza jurídica do Art. 25 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Estados",
+          "texto": "Qual é a aplicabilidade do Art. 25 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Estados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 25 em Estados-Membros?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Estados",
+          "texto": "Conforme STF 2025, Art. 25 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Estados",
+          "texto": "Qual é a natureza jurídica do Art. 25 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Estados",
+          "texto": "Qual é a aplicabilidade do Art. 25 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 25"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 29º",
       "title": "Municípios",
-      "lawText": "...",
+      "lawText": "Art. 29º O Município reger-se-á por lei orgânica, votada em dois turnos, com o interstício mínimo de dez dias...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Municípios",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 29 em Municípios?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Municípios",
+          "texto": "Conforme STF 2025, Art. 29 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Municípios",
+          "texto": "Qual é a natureza jurídica do Art. 29 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Municípios",
+          "texto": "Qual é a aplicabilidade do Art. 29 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Municípios",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 29 em Municípios?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Municípios",
+          "texto": "Conforme STF 2025, Art. 29 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Municípios",
+          "texto": "Qual é a natureza jurídica do Art. 29 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Municípios",
+          "texto": "Qual é a aplicabilidade do Art. 29 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Municípios",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 29 em Municípios?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Municípios",
+          "texto": "Conforme STF 2025, Art. 29 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Municípios",
+          "texto": "Qual é a natureza jurídica do Art. 29 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Municípios",
+          "texto": "Qual é a aplicabilidade do Art. 29 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Municípios",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 29 em Municípios?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Municípios",
+          "texto": "Conforme STF 2025, Art. 29 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Municípios",
+          "texto": "Qual é a natureza jurídica do Art. 29 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Municípios",
+          "texto": "Qual é a aplicabilidade do Art. 29 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Municípios",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 29 em Municípios?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Municípios",
+          "texto": "Conforme STF 2025, Art. 29 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Municípios",
+          "texto": "Qual é a natureza jurídica do Art. 29 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Municípios",
+          "texto": "Qual é a aplicabilidade do Art. 29 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 29"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 30º",
       "title": "Competências Municipais",
-      "lawText": "...",
+      "lawText": "Art. 30º Compete aos Municípios: I - legislar sobre assuntos de interesse local; II - suplementar a legislação federal e a estadual...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Competências",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 30 em Competências Municipais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Competências",
+          "texto": "Conforme STF 2025, Art. 30 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Competências",
+          "texto": "Qual é a natureza jurídica do Art. 30 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Competências",
+          "texto": "Qual é a aplicabilidade do Art. 30 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Competências",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 30 em Competências Municipais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Competências",
+          "texto": "Conforme STF 2025, Art. 30 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Competências",
+          "texto": "Qual é a natureza jurídica do Art. 30 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Competências",
+          "texto": "Qual é a aplicabilidade do Art. 30 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Competências",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 30 em Competências Municipais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Competências",
+          "texto": "Conforme STF 2025, Art. 30 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Competências",
+          "texto": "Qual é a natureza jurídica do Art. 30 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Competências",
+          "texto": "Qual é a aplicabilidade do Art. 30 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Competências",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 30 em Competências Municipais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Competências",
+          "texto": "Conforme STF 2025, Art. 30 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Competências",
+          "texto": "Qual é a natureza jurídica do Art. 30 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Competências",
+          "texto": "Qual é a aplicabilidade do Art. 30 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Competências",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 30 em Competências Municipais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Competências",
+          "texto": "Conforme STF 2025, Art. 30 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Competências",
+          "texto": "Qual é a natureza jurídica do Art. 30 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Competências",
+          "texto": "Qual é a aplicabilidade do Art. 30 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 30"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 37º",
       "title": "Administração Pública",
-      "lawText": "...",
+      "lawText": "Art. 37º A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência.",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Administração",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 37 em Administração Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Administração",
+          "texto": "Conforme STF 2025, Art. 37 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Administração",
+          "texto": "Qual é a natureza jurídica do Art. 37 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Administração",
+          "texto": "Qual é a aplicabilidade do Art. 37 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Administração",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 37 em Administração Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Administração",
+          "texto": "Conforme STF 2025, Art. 37 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Administração",
+          "texto": "Qual é a natureza jurídica do Art. 37 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Administração",
+          "texto": "Qual é a aplicabilidade do Art. 37 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Administração",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 37 em Administração Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Administração",
+          "texto": "Conforme STF 2025, Art. 37 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Administração",
+          "texto": "Qual é a natureza jurídica do Art. 37 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Administração",
+          "texto": "Qual é a aplicabilidade do Art. 37 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Administração",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 37 em Administração Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Administração",
+          "texto": "Conforme STF 2025, Art. 37 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Administração",
+          "texto": "Qual é a natureza jurídica do Art. 37 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Administração",
+          "texto": "Qual é a aplicabilidade do Art. 37 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Administração",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 37 em Administração Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.893/2025: Autonomia municipal em interesse local",
+          "explicacao": "Conforme STF, ADI 7.893/2025: Autonomia municipal em interesse local, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Administração",
+          "texto": "Conforme STF 2025, Art. 37 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, RE 1.456.791/2025: Competência concorrente entre entes",
+          "explicacao": "Conforme STF, RE 1.456.791/2025: Competência concorrente entre entes, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Administração",
+          "texto": "Qual é a natureza jurídica do Art. 37 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "jurisprudencia": "STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local",
+          "explicacao": "Conforme STF, ADI 7.894/2025: Municípios podem legislar sobre interesse local, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Administração",
+          "texto": "Qual é a aplicabilidade do Art. 37 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 37"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     }

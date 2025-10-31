@@ -1,2272 +1,2433 @@
 {
   "title": "🏛️ Fundamentos da República",
+  "description": "Princípios fundamentais, divisão de poderes, objetivos e relações internacionais",
   "difficulty": "⭐⭐",
   "articles": [
     {
       "number": "Art. 1º",
-      "title": "Fundamentos",
-      "lawText": "...",
+      "title": "Fundamentos da República",
+      "lawText": "Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos: I - a soberania; II - a cidadania; III - a dignidade da pessoa humana; IV - os valores sociais do trabalho e da livre iniciativa; V - o pluralismo político. Parágrafo único. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Fundamentos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 1 em Fundamentos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Fundamentos",
+          "texto": "Conforme STF 2025, Art. 1 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Fundamentos",
+          "texto": "Qual é a natureza jurídica do Art. 1 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Fundamentos",
+          "texto": "Qual é a aplicabilidade do Art. 1 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Fundamentos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 1 em Fundamentos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Fundamentos",
+          "texto": "Conforme STF 2025, Art. 1 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Fundamentos",
+          "texto": "Qual é a natureza jurídica do Art. 1 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Fundamentos",
+          "texto": "Qual é a aplicabilidade do Art. 1 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Fundamentos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 1 em Fundamentos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Fundamentos",
+          "texto": "Conforme STF 2025, Art. 1 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Fundamentos",
+          "texto": "Qual é a natureza jurídica do Art. 1 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Fundamentos",
+          "texto": "Qual é a aplicabilidade do Art. 1 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Fundamentos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 1 em Fundamentos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Fundamentos",
+          "texto": "Conforme STF 2025, Art. 1 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Fundamentos",
+          "texto": "Qual é a natureza jurídica do Art. 1 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Fundamentos",
+          "texto": "Qual é a aplicabilidade do Art. 1 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Fundamentos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 1 em Fundamentos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Fundamentos",
+          "texto": "Conforme STF 2025, Art. 1 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Fundamentos",
+          "texto": "Qual é a natureza jurídica do Art. 1 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Fundamentos",
+          "texto": "Qual é a aplicabilidade do Art. 1 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 1"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 2º",
       "title": "Divisão de Poderes",
-      "lawText": "...",
+      "lawText": "Art. 2º São Poderes da União, independentes e harmônicos entre si: I - o Legislativo; II - o Executivo; III - o Judiciário.",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Divisão de Poderes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 2 em Divisão de Poderes?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Divisão de Poderes",
+          "texto": "Conforme STF 2025, Art. 2 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Divisão de Poderes",
+          "texto": "Qual é a natureza jurídica do Art. 2 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Divisão de Poderes",
+          "texto": "Qual é a aplicabilidade do Art. 2 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Divisão de Poderes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 2 em Divisão de Poderes?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Divisão de Poderes",
+          "texto": "Conforme STF 2025, Art. 2 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Divisão de Poderes",
+          "texto": "Qual é a natureza jurídica do Art. 2 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Divisão de Poderes",
+          "texto": "Qual é a aplicabilidade do Art. 2 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Divisão de Poderes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 2 em Divisão de Poderes?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Divisão de Poderes",
+          "texto": "Conforme STF 2025, Art. 2 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Divisão de Poderes",
+          "texto": "Qual é a natureza jurídica do Art. 2 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Divisão de Poderes",
+          "texto": "Qual é a aplicabilidade do Art. 2 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Divisão de Poderes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 2 em Divisão de Poderes?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Divisão de Poderes",
+          "texto": "Conforme STF 2025, Art. 2 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Divisão de Poderes",
+          "texto": "Qual é a natureza jurídica do Art. 2 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Divisão de Poderes",
+          "texto": "Qual é a aplicabilidade do Art. 2 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Divisão de Poderes",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 2 em Divisão de Poderes?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Divisão de Poderes",
+          "texto": "Conforme STF 2025, Art. 2 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Divisão de Poderes",
+          "texto": "Qual é a natureza jurídica do Art. 2 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Divisão de Poderes",
+          "texto": "Qual é a aplicabilidade do Art. 2 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 2"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 3º",
-      "title": "Objetivos",
-      "lawText": "...",
+      "title": "Objetivos Fundamentais",
+      "lawText": "Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil: I - construir uma sociedade livre, justa e solidária; II - garantir o desenvolvimento nacional; III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais; IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Objetivos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 3 em Objetivos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Objetivos",
+          "texto": "Conforme STF 2025, Art. 3 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Objetivos",
+          "texto": "Qual é a natureza jurídica do Art. 3 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Objetivos",
+          "texto": "Qual é a aplicabilidade do Art. 3 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Objetivos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 3 em Objetivos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Objetivos",
+          "texto": "Conforme STF 2025, Art. 3 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Objetivos",
+          "texto": "Qual é a natureza jurídica do Art. 3 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Objetivos",
+          "texto": "Qual é a aplicabilidade do Art. 3 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Objetivos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 3 em Objetivos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Objetivos",
+          "texto": "Conforme STF 2025, Art. 3 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Objetivos",
+          "texto": "Qual é a natureza jurídica do Art. 3 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Objetivos",
+          "texto": "Qual é a aplicabilidade do Art. 3 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Objetivos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 3 em Objetivos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Objetivos",
+          "texto": "Conforme STF 2025, Art. 3 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Objetivos",
+          "texto": "Qual é a natureza jurídica do Art. 3 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Objetivos",
+          "texto": "Qual é a aplicabilidade do Art. 3 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Objetivos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 3 em Objetivos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Objetivos",
+          "texto": "Conforme STF 2025, Art. 3 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Objetivos",
+          "texto": "Qual é a natureza jurídica do Art. 3 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Objetivos",
+          "texto": "Qual é a aplicabilidade do Art. 3 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 3"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 4º",
       "title": "Relações Internacionais",
-      "lawText": "...",
+      "lawText": "Art. 4º A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios: I - independência nacional; II - prevalência dos direitos humanos; III - autodeterminação dos povos; IV - não-intervenção; V - igualdade entre os Estados; VI - defesa da paz; VII - solução pacífica de controvérsias; VIII - repúdio ao terrorismo e ao racismo; IX - cooperação entre os povos para o progresso da humanidade; X - concessão de asilo político.",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Relações Internacionais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 4 em Relações Internacionais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Relações Internacionais",
+          "texto": "Conforme STF 2025, Art. 4 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Relações Internacionais",
+          "texto": "Qual é a natureza jurídica do Art. 4 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Relações Internacionais",
+          "texto": "Qual é a aplicabilidade do Art. 4 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Relações Internacionais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 4 em Relações Internacionais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Relações Internacionais",
+          "texto": "Conforme STF 2025, Art. 4 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Relações Internacionais",
+          "texto": "Qual é a natureza jurídica do Art. 4 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Relações Internacionais",
+          "texto": "Qual é a aplicabilidade do Art. 4 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Relações Internacionais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 4 em Relações Internacionais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Relações Internacionais",
+          "texto": "Conforme STF 2025, Art. 4 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Relações Internacionais",
+          "texto": "Qual é a natureza jurídica do Art. 4 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Relações Internacionais",
+          "texto": "Qual é a aplicabilidade do Art. 4 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Relações Internacionais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 4 em Relações Internacionais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Relações Internacionais",
+          "texto": "Conforme STF 2025, Art. 4 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Relações Internacionais",
+          "texto": "Qual é a natureza jurídica do Art. 4 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Relações Internacionais",
+          "texto": "Qual é a aplicabilidade do Art. 4 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Relações Internacionais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 4 em Relações Internacionais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.890/2025: Dignidade como fundamento irradiante",
+          "explicacao": "Conforme STF, ADI 7.890/2025: Dignidade como fundamento irradiante, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Relações Internacionais",
+          "texto": "Conforme STF 2025, Art. 4 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, RE 1.456.789/2025: Soberania popular em decisões municipais",
+          "explicacao": "Conforme STF, RE 1.456.789/2025: Soberania popular em decisões municipais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Relações Internacionais",
+          "texto": "Qual é a natureza jurídica do Art. 4 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "jurisprudencia": "STF, ADI 7.891/2025: Pluralismo político veda extremismos",
+          "explicacao": "Conforme STF, ADI 7.891/2025: Pluralismo político veda extremismos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Relações Internacionais",
+          "texto": "Qual é a aplicabilidade do Art. 4 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 4"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     }

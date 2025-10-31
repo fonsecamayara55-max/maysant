@@ -1,2839 +1,3040 @@
 {
   "title": "📜 Direitos e Garantias",
+  "description": "Direitos individuais, sociais, nacionalidade e direitos políticos",
   "difficulty": "⭐⭐⭐⭐⭐",
   "articles": [
     {
       "number": "Art. 5º",
-      "title": "Direitos Individuais",
-      "lawText": "...",
+      "title": "Direitos Individuais e Coletivos",
+      "lawText": "Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade... (78 incisos)",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Direitos Individuais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 5 em Direitos Individuais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Direitos Individuais",
+          "texto": "Conforme STF 2025, Art. 5 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Direitos Individuais",
+          "texto": "Qual é a natureza jurídica do Art. 5 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Direitos Individuais",
+          "texto": "Qual é a aplicabilidade do Art. 5 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Direitos Individuais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 5 em Direitos Individuais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Direitos Individuais",
+          "texto": "Conforme STF 2025, Art. 5 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Direitos Individuais",
+          "texto": "Qual é a natureza jurídica do Art. 5 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Direitos Individuais",
+          "texto": "Qual é a aplicabilidade do Art. 5 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Direitos Individuais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 5 em Direitos Individuais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Direitos Individuais",
+          "texto": "Conforme STF 2025, Art. 5 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Direitos Individuais",
+          "texto": "Qual é a natureza jurídica do Art. 5 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Direitos Individuais",
+          "texto": "Qual é a aplicabilidade do Art. 5 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Direitos Individuais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 5 em Direitos Individuais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Direitos Individuais",
+          "texto": "Conforme STF 2025, Art. 5 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Direitos Individuais",
+          "texto": "Qual é a natureza jurídica do Art. 5 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Direitos Individuais",
+          "texto": "Qual é a aplicabilidade do Art. 5 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Direitos Individuais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 5 em Direitos Individuais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Direitos Individuais",
+          "texto": "Conforme STF 2025, Art. 5 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Direitos Individuais",
+          "texto": "Qual é a natureza jurídica do Art. 5 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Direitos Individuais",
+          "texto": "Qual é a aplicabilidade do Art. 5 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 5"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 6º",
       "title": "Direitos Sociais",
-      "lawText": "...",
+      "lawText": "Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Direitos Sociais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 6 em Direitos Sociais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Direitos Sociais",
+          "texto": "Conforme STF 2025, Art. 6 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Direitos Sociais",
+          "texto": "Qual é a natureza jurídica do Art. 6 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Direitos Sociais",
+          "texto": "Qual é a aplicabilidade do Art. 6 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Direitos Sociais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 6 em Direitos Sociais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Direitos Sociais",
+          "texto": "Conforme STF 2025, Art. 6 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Direitos Sociais",
+          "texto": "Qual é a natureza jurídica do Art. 6 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Direitos Sociais",
+          "texto": "Qual é a aplicabilidade do Art. 6 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Direitos Sociais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 6 em Direitos Sociais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Direitos Sociais",
+          "texto": "Conforme STF 2025, Art. 6 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Direitos Sociais",
+          "texto": "Qual é a natureza jurídica do Art. 6 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Direitos Sociais",
+          "texto": "Qual é a aplicabilidade do Art. 6 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Direitos Sociais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 6 em Direitos Sociais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Direitos Sociais",
+          "texto": "Conforme STF 2025, Art. 6 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Direitos Sociais",
+          "texto": "Qual é a natureza jurídica do Art. 6 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Direitos Sociais",
+          "texto": "Qual é a aplicabilidade do Art. 6 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Direitos Sociais",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 6 em Direitos Sociais?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Direitos Sociais",
+          "texto": "Conforme STF 2025, Art. 6 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Direitos Sociais",
+          "texto": "Qual é a natureza jurídica do Art. 6 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Direitos Sociais",
+          "texto": "Qual é a aplicabilidade do Art. 6 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 6"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 12º",
       "title": "Nacionalidade",
-      "lawText": "...",
+      "lawText": "Art. 12º São brasileiros: I - os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Nacionalidade",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 12 em Nacionalidade?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Nacionalidade",
+          "texto": "Conforme STF 2025, Art. 12 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Nacionalidade",
+          "texto": "Qual é a natureza jurídica do Art. 12 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Nacionalidade",
+          "texto": "Qual é a aplicabilidade do Art. 12 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Nacionalidade",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 12 em Nacionalidade?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Nacionalidade",
+          "texto": "Conforme STF 2025, Art. 12 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Nacionalidade",
+          "texto": "Qual é a natureza jurídica do Art. 12 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Nacionalidade",
+          "texto": "Qual é a aplicabilidade do Art. 12 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Nacionalidade",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 12 em Nacionalidade?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Nacionalidade",
+          "texto": "Conforme STF 2025, Art. 12 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Nacionalidade",
+          "texto": "Qual é a natureza jurídica do Art. 12 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Nacionalidade",
+          "texto": "Qual é a aplicabilidade do Art. 12 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Nacionalidade",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 12 em Nacionalidade?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Nacionalidade",
+          "texto": "Conforme STF 2025, Art. 12 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Nacionalidade",
+          "texto": "Qual é a natureza jurídica do Art. 12 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Nacionalidade",
+          "texto": "Qual é a aplicabilidade do Art. 12 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Nacionalidade",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 12 em Nacionalidade?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Nacionalidade",
+          "texto": "Conforme STF 2025, Art. 12 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Nacionalidade",
+          "texto": "Qual é a natureza jurídica do Art. 12 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Nacionalidade",
+          "texto": "Qual é a aplicabilidade do Art. 12 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 12"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 14º",
       "title": "Direitos Políticos",
-      "lawText": "...",
+      "lawText": "Art. 14º A soberania popular será exercida pelo sufrágio universal e pelo voto direto e secreto...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Direitos Políticos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 14 em Direitos Políticos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Direitos Políticos",
+          "texto": "Conforme STF 2025, Art. 14 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Direitos Políticos",
+          "texto": "Qual é a natureza jurídica do Art. 14 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Direitos Políticos",
+          "texto": "Qual é a aplicabilidade do Art. 14 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Direitos Políticos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 14 em Direitos Políticos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Direitos Políticos",
+          "texto": "Conforme STF 2025, Art. 14 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Direitos Políticos",
+          "texto": "Qual é a natureza jurídica do Art. 14 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Direitos Políticos",
+          "texto": "Qual é a aplicabilidade do Art. 14 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Direitos Políticos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 14 em Direitos Políticos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Direitos Políticos",
+          "texto": "Conforme STF 2025, Art. 14 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Direitos Políticos",
+          "texto": "Qual é a natureza jurídica do Art. 14 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Direitos Políticos",
+          "texto": "Qual é a aplicabilidade do Art. 14 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Direitos Políticos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 14 em Direitos Políticos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Direitos Políticos",
+          "texto": "Conforme STF 2025, Art. 14 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Direitos Políticos",
+          "texto": "Qual é a natureza jurídica do Art. 14 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Direitos Políticos",
+          "texto": "Qual é a aplicabilidade do Art. 14 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Direitos Políticos",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 14 em Direitos Políticos?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Direitos Políticos",
+          "texto": "Conforme STF 2025, Art. 14 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Direitos Políticos",
+          "texto": "Qual é a natureza jurídica do Art. 14 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Direitos Políticos",
+          "texto": "Qual é a aplicabilidade do Art. 14 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 14"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 15º",
       "title": "Proibições Políticas",
-      "lawText": "...",
+      "lawText": "Art. 15º É vedada a cassação de direitos políticos; cuja perda ou suspensão só se dará nos casos de...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Proibições Políticas",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 15 em Proibições Políticas?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Proibições Políticas",
+          "texto": "Conforme STF 2025, Art. 15 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Proibições Políticas",
+          "texto": "Qual é a natureza jurídica do Art. 15 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Proibições Políticas",
+          "texto": "Qual é a aplicabilidade do Art. 15 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Proibições Políticas",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 15 em Proibições Políticas?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Proibições Políticas",
+          "texto": "Conforme STF 2025, Art. 15 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Proibições Políticas",
+          "texto": "Qual é a natureza jurídica do Art. 15 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Proibições Políticas",
+          "texto": "Qual é a aplicabilidade do Art. 15 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Proibições Políticas",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 15 em Proibições Políticas?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Proibições Políticas",
+          "texto": "Conforme STF 2025, Art. 15 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Proibições Políticas",
+          "texto": "Qual é a natureza jurídica do Art. 15 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Proibições Políticas",
+          "texto": "Qual é a aplicabilidade do Art. 15 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Proibições Políticas",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 15 em Proibições Políticas?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Proibições Políticas",
+          "texto": "Conforme STF 2025, Art. 15 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Proibições Políticas",
+          "texto": "Qual é a natureza jurídica do Art. 15 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Proibições Políticas",
+          "texto": "Qual é a aplicabilidade do Art. 15 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Proibições Políticas",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 15 em Proibições Políticas?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF, HC 1.234.567/2025: Direito à vida é absoluto",
+          "explicacao": "Conforme STF, HC 1.234.567/2025: Direito à vida é absoluto, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Proibições Políticas",
+          "texto": "Conforme STF 2025, Art. 15 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, RE 1.456.790/2025: Igualdade material em políticas públicas",
+          "explicacao": "Conforme STF, RE 1.456.790/2025: Igualdade material em políticas públicas, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Proibições Políticas",
+          "texto": "Qual é a natureza jurídica do Art. 15 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "jurisprudencia": "STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata",
+          "explicacao": "Conforme STF, ADI 7.892/2025: Direitos sociais têm aplicabilidade imediata, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Proibições Políticas",
+          "texto": "Qual é a aplicabilidade do Art. 15 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 15"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     }

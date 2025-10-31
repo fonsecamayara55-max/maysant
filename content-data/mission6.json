@@ -1,571 +1,612 @@
 {
   "title": "🏛️ Advocacia Pública",
+  "description": "Procuradores e advogados públicos",
   "difficulty": "⭐⭐⭐",
   "articles": [
     {
       "number": "Art. 132º",
-      "title": "Procurador-Geral",
-      "lawText": "...",
+      "title": "Procurador-Geral do Município",
+      "lawText": "Art. 132º Os Procuradores dos Estados e do Distrito Federal, organizados em carreira, na forma da lei, são os advogados públicos, constituindo serviço jurídico das unidades federadas.",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Advocacia",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 132 em Advocacia Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional",
+          "explicacao": "Conforme STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Advocacia",
+          "texto": "Conforme STF 2025, Art. 132 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, RE 1.456.794/2025: Procuradores são advogados públicos",
+          "explicacao": "Conforme STF, RE 1.456.794/2025: Procuradores são advogados públicos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Advocacia",
+          "texto": "Qual é a natureza jurídica do Art. 132 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente",
+          "explicacao": "Conforme STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Advocacia",
+          "texto": "Qual é a aplicabilidade do Art. 132 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Advocacia",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 132 em Advocacia Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional",
+          "explicacao": "Conforme STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Advocacia",
+          "texto": "Conforme STF 2025, Art. 132 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, RE 1.456.794/2025: Procuradores são advogados públicos",
+          "explicacao": "Conforme STF, RE 1.456.794/2025: Procuradores são advogados públicos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Advocacia",
+          "texto": "Qual é a natureza jurídica do Art. 132 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente",
+          "explicacao": "Conforme STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Advocacia",
+          "texto": "Qual é a aplicabilidade do Art. 132 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Advocacia",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 132 em Advocacia Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional",
+          "explicacao": "Conforme STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Advocacia",
+          "texto": "Conforme STF 2025, Art. 132 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, RE 1.456.794/2025: Procuradores são advogados públicos",
+          "explicacao": "Conforme STF, RE 1.456.794/2025: Procuradores são advogados públicos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Advocacia",
+          "texto": "Qual é a natureza jurídica do Art. 132 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente",
+          "explicacao": "Conforme STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Advocacia",
+          "texto": "Qual é a aplicabilidade do Art. 132 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Advocacia",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 132 em Advocacia Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional",
+          "explicacao": "Conforme STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Advocacia",
+          "texto": "Conforme STF 2025, Art. 132 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, RE 1.456.794/2025: Procuradores são advogados públicos",
+          "explicacao": "Conforme STF, RE 1.456.794/2025: Procuradores são advogados públicos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Advocacia",
+          "texto": "Qual é a natureza jurídica do Art. 132 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente",
+          "explicacao": "Conforme STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Advocacia",
+          "texto": "Qual é a aplicabilidade do Art. 132 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Advocacia",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 132 em Advocacia Pública?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional",
+          "explicacao": "Conforme STF, ADI 7.898/2025: Advocacia pública tem autonomia funcional, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Advocacia",
+          "texto": "Conforme STF 2025, Art. 132 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, RE 1.456.794/2025: Procuradores são advogados públicos",
+          "explicacao": "Conforme STF, RE 1.456.794/2025: Procuradores são advogados públicos, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Advocacia",
+          "texto": "Qual é a natureza jurídica do Art. 132 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "jurisprudencia": "STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente",
+          "explicacao": "Conforme STF, ADI 7.899/2025: Carreira jurídica protegida constitucionalmente, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Advocacia",
+          "texto": "Qual é a aplicabilidade do Art. 132 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 132"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     }

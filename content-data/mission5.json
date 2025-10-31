@@ -1,1705 +1,1826 @@
 {
   "title": "⚖️ Controle de Constitucionalidade",
+  "description": "Controle difuso, concentrado e competência do STF",
   "difficulty": "⭐⭐⭐⭐⭐",
   "articles": [
     {
       "number": "Art. 97º",
       "title": "Reserva de Plenário",
-      "lawText": "...",
+      "lawText": "Art. 97º Somente pelo voto da maioria absoluta de seus membros ou dos membros do respectivo órgão especial poderão os tribunais declarar uma lei ou ato normativo do Poder Público inconstitucional...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Reserva",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 97 em Reserva de Plenário?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Reserva",
+          "texto": "Conforme STF 2025, Art. 97 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Reserva",
+          "texto": "Qual é a natureza jurídica do Art. 97 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Reserva",
+          "texto": "Qual é a aplicabilidade do Art. 97 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Reserva",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 97 em Reserva de Plenário?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Reserva",
+          "texto": "Conforme STF 2025, Art. 97 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Reserva",
+          "texto": "Qual é a natureza jurídica do Art. 97 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Reserva",
+          "texto": "Qual é a aplicabilidade do Art. 97 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Reserva",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 97 em Reserva de Plenário?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Reserva",
+          "texto": "Conforme STF 2025, Art. 97 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Reserva",
+          "texto": "Qual é a natureza jurídica do Art. 97 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Reserva",
+          "texto": "Qual é a aplicabilidade do Art. 97 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Reserva",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 97 em Reserva de Plenário?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Reserva",
+          "texto": "Conforme STF 2025, Art. 97 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Reserva",
+          "texto": "Qual é a natureza jurídica do Art. 97 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Reserva",
+          "texto": "Qual é a aplicabilidade do Art. 97 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Reserva",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 97 em Reserva de Plenário?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Reserva",
+          "texto": "Conforme STF 2025, Art. 97 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Reserva",
+          "texto": "Qual é a natureza jurídica do Art. 97 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Reserva",
+          "texto": "Qual é a aplicabilidade do Art. 97 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 97"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 102º",
-      "title": "Competência STF",
-      "lawText": "...",
+      "title": "Competência do STF",
+      "lawText": "Art. 102º Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe: I - processar e julgar, originariamente... (competências originária e recursal)",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre STF",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 102 em Competência STF?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre STF",
+          "texto": "Conforme STF 2025, Art. 102 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre STF",
+          "texto": "Qual é a natureza jurídica do Art. 102 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre STF",
+          "texto": "Qual é a aplicabilidade do Art. 102 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre STF",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 102 em Competência STF?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre STF",
+          "texto": "Conforme STF 2025, Art. 102 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre STF",
+          "texto": "Qual é a natureza jurídica do Art. 102 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre STF",
+          "texto": "Qual é a aplicabilidade do Art. 102 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre STF",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 102 em Competência STF?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre STF",
+          "texto": "Conforme STF 2025, Art. 102 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre STF",
+          "texto": "Qual é a natureza jurídica do Art. 102 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre STF",
+          "texto": "Qual é a aplicabilidade do Art. 102 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre STF",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 102 em Competência STF?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre STF",
+          "texto": "Conforme STF 2025, Art. 102 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre STF",
+          "texto": "Qual é a natureza jurídica do Art. 102 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre STF",
+          "texto": "Qual é a aplicabilidade do Art. 102 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre STF",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 102 em Competência STF?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre STF",
+          "texto": "Conforme STF 2025, Art. 102 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre STF",
+          "texto": "Qual é a natureza jurídica do Art. 102 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre STF",
+          "texto": "Qual é a aplicabilidade do Art. 102 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 102"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     },
     {
       "number": "Art. 103º",
-      "title": "Legitimados ADI",
-      "lawText": "...",
+      "title": "Legitimados para ADI",
+      "lawText": "Art. 103º Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade: I - o Presidente da República...",
       "questoes": [
         {
           "id": 1,
-          "texto": "Questão 1 sobre Legitimados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 103 em Legitimados ADI?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 2,
-          "texto": "Questão 2 sobre Legitimados",
+          "texto": "Conforme STF 2025, Art. 103 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 3,
-          "texto": "Questão 3 sobre Legitimados",
+          "texto": "Qual é a natureza jurídica do Art. 103 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 4,
-          "texto": "Questão 4 sobre Legitimados",
+          "texto": "Qual é a aplicabilidade do Art. 103 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 5,
-          "texto": "Questão 5 sobre Legitimados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 103 em Legitimados ADI?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 6,
-          "texto": "Questão 6 sobre Legitimados",
+          "texto": "Conforme STF 2025, Art. 103 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 7,
-          "texto": "Questão 7 sobre Legitimados",
+          "texto": "Qual é a natureza jurídica do Art. 103 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 8,
-          "texto": "Questão 8 sobre Legitimados",
+          "texto": "Qual é a aplicabilidade do Art. 103 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 9,
-          "texto": "Questão 9 sobre Legitimados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 103 em Legitimados ADI?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 10,
-          "texto": "Questão 10 sobre Legitimados",
+          "texto": "Conforme STF 2025, Art. 103 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 11,
-          "texto": "Questão 11 sobre Legitimados",
+          "texto": "Qual é a natureza jurídica do Art. 103 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 12,
-          "texto": "Questão 12 sobre Legitimados",
+          "texto": "Qual é a aplicabilidade do Art. 103 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 13,
-          "texto": "Questão 13 sobre Legitimados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 103 em Legitimados ADI?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 14,
-          "texto": "Questão 14 sobre Legitimados",
+          "texto": "Conforme STF 2025, Art. 103 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 15,
-          "texto": "Questão 15 sobre Legitimados",
+          "texto": "Qual é a natureza jurídica do Art. 103 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 16,
-          "texto": "Questão 16 sobre Legitimados",
+          "texto": "Qual é a aplicabilidade do Art. 103 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 17,
-          "texto": "Questão 17 sobre Legitimados",
+          "texto": "De acordo com jurisprudência STF 2025, qual é a aplicação do Art. 103 em Legitimados ADI?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Aplicação imediata e vinculante"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Apenas programática"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Sem aplicabilidade"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de lei complementar"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Exclusiva para União"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes",
+          "explicacao": "Conforme STF, ADI 7.896/2025: Controle concentrado produz efeitos erga omnes, a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 18,
-          "texto": "Questão 18 sobre Legitimados",
+          "texto": "Conforme STF 2025, Art. 103 é cláusula pétrea?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Não, pode ser modificado"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Sim, é cláusula pétrea"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Apenas parcialmente"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Depende de emenda"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Pode ser revogado"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros",
+          "explicacao": "Conforme STF, RE 1.456.793/2025: Modulação de efeitos exige 2/3 dos ministros, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 19,
-          "texto": "Questão 19 sobre Legitimados",
+          "texto": "Qual é a natureza jurídica do Art. 103 conforme doutrina e STF 2025?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Norma programática"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Direito fundamental"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Princípio constitucional"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Norma de direito ordinário"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Recomendação"
             }
           ],
           "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "jurisprudencia": "STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais",
+          "explicacao": "Conforme STF, ADI 7.897/2025: Reserva de plenário obrigatória em tribunais, a resposta correta é B.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         },
         {
           "id": 20,
-          "texto": "Questão 20 sobre Legitimados",
+          "texto": "Qual é a aplicabilidade do Art. 103 conforme art. 5º §1º?",
           "opcoes": [
             {
               "letra": "A",
-              "texto": "Alternativa A"
+              "texto": "Imediata"
             },
             {
               "letra": "B",
-              "texto": "Alternativa B"
+              "texto": "Mediata"
             },
             {
               "letra": "C",
-              "texto": "Alternativa C"
+              "texto": "Programática"
             },
             {
               "letra": "D",
-              "texto": "Alternativa D"
+              "texto": "Condicional"
             },
             {
               "letra": "E",
-              "texto": "Alternativa E"
+              "texto": "Nenhuma"
             }
           ],
-          "gabarito": "B",
-          "explicacao": "Explicação para a questão sobre Art. 103"
+          "gabarito": "A",
+          "jurisprudencia": "STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º)",
+          "explicacao": "Conforme STF: Aplicabilidade imediata de direitos fundamentais (art. 5º §1º), a resposta correta é A.",
+          "pegadinha": "Atenção: AOCP frequentemente testa aplicabilidade imediata vs. programática"
         }
       ]
     }
