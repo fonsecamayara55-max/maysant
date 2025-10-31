@@ -1,0 +1,26 @@
+# GitHub Pages Configuration
+title: Playbook Interativo PGM-SP
+description: Lei Seca Esquematizada para Residência Jurídica
+author: Manus AI
+theme: jekyll-theme-minimal
+markdown: kramdown
+encoding: UTF-8
+
+# Build settings
+exclude:
+  - .gitignore
+  - README.md
+  - QUICKSTART.md
+  - TECHNICAL.md
+  - index-v1.html
+  - index-v2.html
+  - script-v1.js
+  - script-v2.js
+  - styles-v1.css
+  - styles-v2.css
+  - content-mission*.js
+  - advanced-features.js
+
+# Site settings
+url: "https://fonsecamayara55-max.github.io/maysant"
+baseurl: "/maysant"
