@@ -3,365 +3,419 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Playbook PGM-SP: Direito Constitucional</title>
-    <link rel="stylesheet" href="styles-v2.css">
+    <title>Playbook PGM-SP: Direito Constitucional Interativo</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f5f5f5; color: #333; }
+        
+        .app-container { display: flex; min-height: 100vh; }
+        
+        /* SIDEBAR */
+        .sidebar {
+            width: 280px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            overflow-y: auto;
+            box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+        }
+        
+        .sidebar-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.2);
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        
+        .nav-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px 15px;
+            margin: 8px 0;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            color: white;
+            text-decoration: none;
+            background: rgba(255,255,255,0.1);
+        }
+        
+        .nav-item:hover {
+            background: rgba(255,255,255,0.2);
+            transform: translateX(5px);
+        }
+        
+        .nav-item.active {
+            background: rgba(255,255,255,0.3);
+            font-weight: bold;
+        }
+        
+        .nav-badge {
+            margin-left: auto;
+            background: rgba(255,255,255,0.3);
+            padding: 2px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+        }
+        
+        /* MAIN CONTENT */
+        .main-content {
+            flex: 1;
+            padding: 30px;
+            overflow-y: auto;
+        }
+        
+        .header {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #666;
+        }
+        
+        .content-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        .article-section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f9f9f9;
+            border-left: 4px solid #667eea;
+            border-radius: 5px;
+        }
+        
+        .article-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+        
+        .law-text {
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 15px 0;
+            font-style: italic;
+            color: #555;
+            border-left: 3px solid #f5576c;
+        }
+        
+        .questions-section {
+            margin-top: 20px;
+        }
+        
+        .question-item {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border-left: 3px solid #4facfe;
+        }
+        
+        .question-text {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .option {
+            padding: 8px;
+            margin: 5px 0;
+            cursor: pointer;
+            border-radius: 3px;
+            transition: all 0.2s;
+        }
+        
+        .option:hover {
+            background: #f0f0f0;
+        }
+        
+        .option input[type="radio"] {
+            margin-right: 8px;
+        }
+        
+        .btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+        
+        .btn:hover {
+            background: #764ba2;
+            transform: translateY(-2px);
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 28px;
+            font-weight: bold;
+        }
+        
+        .stat-label {
+            font-size: 12px;
+            opacity: 0.9;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #667eea;
+        }
+        
+        .error {
+            background: #fee;
+            color: #c33;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        
+        @media (max-width: 768px) {
+            .sidebar { width: 200px; }
+            .stats { grid-template-columns: repeat(2, 1fr); }
+        }
+    </style>
 </head>
 <body>
     <div class="app-container">
-        <!-- SIDEBAR COLORIDA (TIPO PERPLEXITY) -->
+        <!-- SIDEBAR -->
         <aside class="sidebar">
             <div class="sidebar-header">
                 <div class="logo">
-                    <span class="logo-icon">⚖️</span>
-                    <span class="logo-text">Playbook</span>
+                    <span>⚖️</span>
+                    <span>Playbook</span>
                 </div>
-                <button class="sidebar-toggle" id="sidebarToggle">☰</button>
             </div>
 
-            <nav class="sidebar-nav">
-                <!-- Home -->
-                <a href="#" class="nav-item active" data-view="home">
-                    <span class="nav-icon" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">🏠</span>
-                    <span class="nav-label">Home</span>
+            <nav>
+                <a href="#" class="nav-item active" onclick="showHome(); return false;">
+                    🏠 Home
                 </a>
-
-                <!-- Missões -->
-                <div class="nav-section">
-                    <div class="nav-section-title">Missões</div>
-                    
-                    <a href="#" class="nav-item" data-mission="1" onclick="selectMission(1)">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">🏛️</span>
-                        <span class="nav-label">Fundamentos</span>
-                        <span class="nav-badge">4</span>
+                
+                <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.2);">
+                    <div style="font-size: 12px; opacity: 0.8; margin-bottom: 10px;">MISSÕES</div>
+                    <a href="#" class="nav-item" onclick="selectMission(1); return false;">
+                        🏛️ Fundamentos <span class="nav-badge">4</span>
                     </a>
-                    
-                    <a href="#" class="nav-item" data-mission="2" onclick="selectMission(2)">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">📜</span>
-                        <span class="nav-label">Direitos</span>
-                        <span class="nav-badge">13</span>
+                    <a href="#" class="nav-item" onclick="selectMission(2); return false;">
+                        📜 Direitos <span class="nav-badge">5</span>
                     </a>
-                    
-                    <a href="#" class="nav-item" data-mission="3" onclick="selectMission(3)">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);">🏢</span>
-                        <span class="nav-label">Organização</span>
-                        <span class="nav-badge">26</span>
+                    <a href="#" class="nav-item" onclick="selectMission(3); return false;">
+                        🏢 Organização <span class="nav-badge">5</span>
                     </a>
-                    
-                    <a href="#" class="nav-item" data-mission="4" onclick="selectMission(4)">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);">👔</span>
-                        <span class="nav-label">Administração</span>
-                        <span class="nav-badge">8</span>
+                    <a href="#" class="nav-item" onclick="selectMission(4); return false;">
+                        👔 Administração <span class="nav-badge">3</span>
                     </a>
-                    
-                    <a href="#" class="nav-item" data-mission="5" onclick="selectMission(5)">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #30cfd0 0%, #330867 100%);">⚖️</span>
-                        <span class="nav-label">Controle</span>
-                        <span class="nav-badge">6</span>
+                    <a href="#" class="nav-item" onclick="selectMission(5); return false;">
+                        ⚖️ Controle <span class="nav-badge">3</span>
                     </a>
-                    
-                    <a href="#" class="nav-item" data-mission="6" onclick="selectMission(6)">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);">🏛️</span>
-                        <span class="nav-label">Advocacia</span>
-                        <span class="nav-badge">1</span>
+                    <a href="#" class="nav-item" onclick="selectMission(6); return false;">
+                        🏛️ Advocacia <span class="nav-badge">1</span>
                     </a>
-                    
-                    <a href="#" class="nav-item" data-mission="7" onclick="selectMission(7)">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%);">🎓</span>
-                        <span class="nav-label">Revisão</span>
-                        <span class="nav-badge">50</span>
-                    </a>
-                </div>
-
-                <!-- Ferramentas -->
-                <div class="nav-section">
-                    <div class="nav-section-title">Ferramentas</div>
-                    
-                    <a href="#" class="nav-item" data-view="progress">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">📊</span>
-                        <span class="nav-label">Progresso</span>
-                    </a>
-                    
-                    <a href="#" class="nav-item" data-view="errors">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);">📔</span>
-                        <span class="nav-label">Erros</span>
-                    </a>
-                    
-                    <a href="#" class="nav-item" data-view="settings">
-                        <span class="nav-icon" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">⚙️</span>
-                        <span class="nav-label">Configurações</span>
+                    <a href="#" class="nav-item" onclick="selectMission(7); return false;">
+                        🎯 Simulado <span class="nav-badge">1</span>
                     </a>
                 </div>
             </nav>
-
-            <div class="sidebar-footer">
-                <button class="theme-toggle" id="themeToggle" title="Alternar tema">
-                    <span class="theme-icon">🌙</span>
-                </button>
-            </div>
         </aside>
 
-        <!-- CONTEÚDO PRINCIPAL -->
-        <main class="main-content">
-            <!-- HOME VIEW -->
-            <section id="home-view" class="view active">
-                <div class="home-container">
-                    <div class="welcome-section">
-                        <h1>Bem-vindo ao Playbook PGM-SP! 🎮</h1>
-                        <p>Prepare-se para a Residência Jurídica com a Lei Seca Esquematizada de forma dinâmica e gamificada.</p>
-                    </div>
-
-                    <div class="stats-grid">
-                        <div class="stat-card">
-                            <div class="stat-value" id="totalPoints">0</div>
-                            <div class="stat-label">Pontos</div>
-                        </div>
-                        <div class="stat-card">
-                            <div class="stat-value" id="articlesStudied">0</div>
-                            <div class="stat-label">Artigos</div>
-                        </div>
-                        <div class="stat-card">
-                            <div class="stat-value" id="streakDays">0</div>
-                            <div class="stat-label">Dias</div>
-                        </div>
-                        <div class="stat-card">
-                            <div class="stat-value" id="progressPercent">0%</div>
-                            <div class="stat-label">Progresso</div>
-                        </div>
-                    </div>
-
-                    <div class="quick-start">
-                        <h2>Comece Agora 🚀</h2>
-                        <div class="mission-buttons">
-                            <button class="mission-btn" onclick="selectMission(1)">
-                                <span class="mission-icon">🏛️</span>
-                                <span>Fundamentos</span>
-                            </button>
-                            <button class="mission-btn" onclick="selectMission(2)">
-                                <span class="mission-icon">📜</span>
-                                <span>Direitos</span>
-                            </button>
-                            <button class="mission-btn" onclick="selectMission(5)">
-                                <span class="mission-icon">⚖️</span>
-                                <span>Controle</span>
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="tip-section">
-                        <h3>💡 Dica do Dia</h3>
-                        <p id="dailyTip">Use a técnica de Feynman: explique o artigo em voz alta como se estivesse ensinando alguém.</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- STUDY VIEW -->
-            <section id="study-view" class="view">
-                <div class="study-header">
-                    <h1 id="articleTitle">Selecione uma Missão</h1>
-                    <div class="study-controls">
-                        <button class="btn-secondary" onclick="previousArticle()">← Anterior</button>
-                        <button class="btn-primary" onclick="completeArticle()">✅ Completo</button>
-                        <button class="btn-secondary" onclick="nextArticle()">Próximo →</button>
-                    </div>
-                </div>
-
-                <div class="study-layout">
-                    <!-- Conteúdo Principal -->
-                    <div class="study-main">
-                        <div class="content-tabs">
-                            <button class="tab-btn active" data-tab="law-text">📜 Lei Seca</button>
-                            <button class="tab-btn" data-tab="raio-x">🔍 Raio-X</button>
-                            <button class="tab-btn" data-tab="tips">💡 Dicas</button>
-                            <button class="tab-btn" data-tab="practice">🏛️ Prática</button>
-                            <button class="tab-btn" data-tab="questions">❓ Questões</button>
-                        </div>
-
-                        <div class="tab-content">
-                            <div class="tab-pane active" id="law-text-pane">
-                                <div class="law-text" id="lawText">
-                                    <p>Selecione um artigo para visualizar o texto completo da Constituição Federal.</p>
-                                </div>
-                                <div class="highlight-tools">
-                                    <button class="btn-secondary" id="highlightBtn">✏️ Marca-texto</button>
-                                    <button class="btn-secondary" id="clearHighlightsBtn">🗑️ Limpar</button>
-                                </div>
-                            </div>
-
-                            <div class="tab-pane" id="raio-x-pane">
-                                <div id="raioX" class="content-box">
-                                    <p>Raio-X esquematizado será exibido aqui.</p>
-                                </div>
-                            </div>
-
-                            <div class="tab-pane" id="tips-pane">
-                                <div id="tipsContainer" class="content-box">
-                                    <p>Dicas e mnemônicos serão exibidos aqui.</p>
-                                </div>
-                            </div>
-
-                            <div class="tab-pane" id="practice-pane">
-                                <div id="practiceContainer" class="content-box">
-                                    <p>Exemplos de aplicabilidade prática na PGM-SP serão exibidos aqui.</p>
-                                </div>
-                            </div>
-
-                            <div class="tab-pane" id="questions-pane">
-                                <div id="questionsContainer" class="content-box">
-                                    <p>Questões AOCP serão exibidas aqui.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Sidebar de Ferramentas -->
-                    <aside class="study-sidebar">
-                        <!-- Checklist -->
-                        <div class="sidebar-widget">
-                            <h3>✅ Checklist</h3>
-                            <div class="checklist">
-                                <label><input type="checkbox"> Li o texto</label>
-                                <label><input type="checkbox"> Revisei o Raio-X</label>
-                                <label><input type="checkbox"> Aprendi dicas</label>
-                                <label><input type="checkbox"> Resolvi questões</label>
-                                <label><input type="checkbox"> Domino o tema</label>
-                            </div>
-                        </div>
-
-                        <!-- Anotações -->
-                        <div class="sidebar-widget">
-                            <h3>📝 Anotações</h3>
-                            <textarea id="notesArea" placeholder="Suas anotações..."></textarea>
-                            <button class="btn-secondary" onclick="saveNotes()">💾 Salvar</button>
-                        </div>
-
-                        <!-- Flashcard -->
-                        <div class="sidebar-widget">
-                            <h3>🎴 Flashcard</h3>
-                            <div class="flashcard" id="flashcard">
-                                <p id="flashcardQuestion">Clique para ver</p>
-                            </div>
-                            <div class="flashcard-buttons">
-                                <button class="btn-secondary" onclick="flipFlashcard()">🔄 Virar</button>
-                                <button class="btn-secondary" onclick="nextFlashcard()">→ Próximo</button>
-                            </div>
-                        </div>
-
-                        <!-- Caderno de Erros -->
-                        <div class="sidebar-widget">
-                            <h3>📔 Erro</h3>
-                            <textarea id="errorNotes" placeholder="Registre erros..."></textarea>
-                            <button class="btn-secondary" onclick="saveError()">💾 Registrar</button>
-                        </div>
-                    </aside>
-                </div>
-            </section>
-
-            <!-- PROGRESS VIEW -->
-            <section id="progress-view" class="view">
-                <div class="progress-container">
-                    <h1>📊 Seu Progresso</h1>
-                    
-                    <div class="progress-grid">
-                        <div class="progress-card">
-                            <h3>Progresso Geral</h3>
-                            <div class="progress-circle">
-                                <div class="progress-percent" id="progressPercent2">0%</div>
-                            </div>
-                        </div>
-
-                        <div class="progress-card">
-                            <h3>Por Missão</h3>
-                            <div class="mission-progress">
-                                <div class="progress-item">
-                                    <span>Fundamentos</span>
-                                    <div class="progress-bar"><div class="progress-fill" style="width: 0%"></div></div>
-                                </div>
-                                <div class="progress-item">
-                                    <span>Direitos</span>
-                                    <div class="progress-bar"><div class="progress-fill" style="width: 0%"></div></div>
-                                </div>
-                                <div class="progress-item">
-                                    <span>Organização</span>
-                                    <div class="progress-bar"><div class="progress-fill" style="width: 0%"></div></div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="progress-card">
-                            <h3>🏆 Conquistas</h3>
-                            <div class="achievements">
-                                <div class="achievement">🌟 Primeiro Passo</div>
-                                <div class="achievement">🔥 Semana de Fogo</div>
-                                <div class="achievement">🎓 Especialista</div>
-                                <div class="achievement">👑 Mestre</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- ERRORS VIEW -->
-            <section id="errors-view" class="view">
-                <div class="errors-container">
-                    <h1>📔 Caderno de Erros</h1>
-                    <div id="errorsList" class="errors-list">
-                        <p>Nenhum erro registrado ainda.</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- SETTINGS VIEW -->
-            <section id="settings-view" class="view">
-                <div class="settings-container">
-                    <h1>⚙️ Configurações</h1>
-                    
-                    <div class="settings-grid">
-                        <div class="settings-card">
-                            <h3>📚 Preferências</h3>
-                            <div class="setting-item">
-                                <label>Tamanho da Fonte</label>
-                                <select id="fontSize">
-                                    <option value="small">Pequeno</option>
-                                    <option value="normal" selected>Normal</option>
-                                    <option value="large">Grande</option>
-                                    <option value="extra-large">Muito Grande</option>
-                                </select>
-                            </div>
-                            <div class="setting-item">
-                                <label>Modo de Leitura</label>
-                                <select id="readingMode">
-                                    <option value="normal">Normal</option>
-                                    <option value="dyslexia">Dislexia-Friendly</option>
-                                    <option value="high-contrast">Alto Contraste</option>
-                                </select>
-                            </div>
-                        </div>
-
-                        <div class="settings-card">
-                            <h3>💾 Dados</h3>
-                            <button class="btn-secondary" onclick="exportData()">📥 Exportar</button>
-                            <button class="btn-secondary" onclick="importData()">📤 Importar</button>
-                            <button class="btn-danger" onclick="resetData()">🗑️ Resetar</button>
-                        </div>
-
-                        <div class="settings-card">
-                            <h3>ℹ️ Sobre</h3>
-                            <p><strong>Versão:</strong> 2.0.0</p>
-                            <p><strong>Para:</strong> Residência PGM-SP</p>
-                            <p><strong>Banca:</strong> AOCP</p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </main>
+        <!-- MAIN CONTENT -->
+        <div class="main-content">
+            <div id="content">
+                <div class="loading">⏳ Carregando conteúdo...</div>
+            </div>
+        </div>
     </div>
 
-    <!-- Toast -->
-    <div id="toast" class="toast"></div>
+    <script>
+        let allMissions = [];
+        let currentMission = null;
 
-    <script src="content-mission1.js"></script>
-    <script src="content-mission2.js"></script>
-    <script src="advanced-features.js"></script>
-    <script src="script-v2.js"></script>
+        // Carregar todas as missões
+        async function loadMissions() {
+            const missionFiles = [
+                'content-data/mission1.json',
+                'content-data/mission2.json',
+                'content-data/mission3.json',
+                'content-data/mission4.json',
+                'content-data/mission5.json',
+                'content-data/mission6.json',
+                'content-data/mission7.json'
+            ];
+
+            for (const file of missionFiles) {
+                try {
+                    const response = await fetch(file);
+                    const data = await response.json();
+                    allMissions.push(data);
+                    console.log(`✅ Carregado: ${data.title}`);
+                } catch (error) {
+                    console.error(`❌ Erro ao carregar ${file}:`, error);
+                }
+            }
+
+            console.log(`🎉 Total de ${allMissions.length} missões carregadas!`);
+            showHome();
+        }
+
+        // Mostrar Home
+        function showHome() {
+            const content = document.getElementById('content');
+            const totalQuestions = allMissions.reduce((sum, m) => {
+                return sum + m.articles.reduce((aSum, a) => aSum + a.questoes.length, 0);
+            }, 0);
+
+            content.innerHTML = `
+                <div class="header">
+                    <h1>🎮 Playbook Interativo PGM-SP</h1>
+                    <p>Prepare-se para a Residência Jurídica com Lei Seca e Questões AOCP</p>
+                </div>
+
+                <div class="stats">
+                    <div class="stat-card">
+                        <div class="stat-number">7</div>
+                        <div class="stat-label">Missões</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">22</div>
+                        <div class="stat-label">Artigos</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">${totalQuestions}</div>
+                        <div class="stat-label">Questões</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-number">2025</div>
+                        <div class="stat-label">Jurisprudência</div>
+                    </div>
+                </div>
+
+                <div class="content-card">
+                    <h2>✨ Bem-vindo ao Playbook!</h2>
+                    <p style="margin: 15px 0; line-height: 1.6;">
+                        Este é um playbook interativo e gamificado para preparação à Residência Jurídica da PGM-SP.
+                        Você encontrará aqui a Lei Seca completa, questões AOCP robustas, jurisprudência 2025 integrada
+                        e ferramentas interativas para estudo eficiente.
+                    </p>
+                    <h3 style="margin-top: 20px; color: #667eea;">🚀 Como Começar:</h3>
+                    <ol style="margin: 15px 0 15px 20px; line-height: 1.8;">
+                        <li>Escolha uma missão na sidebar à esquerda</li>
+                        <li>Estude a Lei Seca e o Raio-X de cada artigo</li>
+                        <li>Resolva as questões com gabarito comentado</li>
+                        <li>Ganhe pontos e desbloqueie conquistas</li>
+                        <li>Use ferramentas como marca-texto e flashcards</li>
+                    </ol>
+                </div>
+            `;
+        }
+
+        // Selecionar missão
+        function selectMission(missionNum) {
+            if (missionNum < 1 || missionNum > allMissions.length) {
+                alert('Missão não disponível');
+                return;
+            }
+
+            const mission = allMissions[missionNum - 1];
+            const content = document.getElementById('content');
+            
+            let html = `
+                <div class="header">
+                    <h1>${mission.title}</h1>
+                    <p>${mission.description}</p>
+                    <p>Dificuldade: ${mission.difficulty}</p>
+                </div>
+            `;
+
+            mission.articles.forEach((article, idx) => {
+                const totalQ = article.questoes.length;
+                html += `
+                    <div class="content-card">
+                        <div class="article-section">
+                            <div class="article-title">${article.number}: ${article.title}</div>
+                            
+                            <div class="law-text">
+                                <strong>Lei Seca:</strong><br>
+                                ${article.lawText.substring(0, 300)}...
+                            </div>
+
+                            <div class="questions-section">
+                                <h4>📝 Questões (${totalQ} total)</h4>
+                                ${article.questoes.slice(0, 3).map((q, qIdx) => `
+                                    <div class="question-item">
+                                        <div class="question-text">Q${qIdx + 1}: ${q.texto}</div>
+                                        <div style="margin-left: 20px;">
+                                            ${q.opcoes.map(opt => `
+                                                <div class="option">
+                                                    <input type="radio" name="q${idx}_${qIdx}" value="${opt.letra}">
+                                                    <strong>${opt.letra})</strong> ${opt.texto}
+                                                </div>
+                                            `).join('')}
+                                        </div>
+                                        <div style="margin-top: 10px; font-size: 12px; color: #666;">
+                                            <strong>Jurisprudência:</strong> ${q.jurisprudencia}
+                                        </div>
+                                    </div>
+                                `).join('')}
+                                <button class="btn" onclick="alert('Carregando todas as ${totalQ} questões...')">
+                                    Ver todas as ${totalQ} questões
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            });
+
+            content.innerHTML = html;
+        }
+
+        // Inicializar ao carregar página
+        window.addEventListener('load', loadMissions);
+    </script>
 </body>
 </html>
